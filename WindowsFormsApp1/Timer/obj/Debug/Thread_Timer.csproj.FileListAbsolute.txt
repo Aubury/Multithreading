@@ -1,0 +1,10 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\bin\Debug\Timer.exe.config
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\bin\Debug\Timer.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\bin\Debug\Timer.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Thread_Timer.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Timer.Form1.resources
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Thread_Timer.csproj.GenerateResource.Cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Thread_Timer.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Timer.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\Multithreading\WindowsFormsApp1\Timer\obj\Debug\Timer.pdb
