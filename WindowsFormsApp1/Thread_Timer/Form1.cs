@@ -50,7 +50,9 @@ namespace Timer
            Timer =  new System.Threading.Timer(_ListBox,100,0,10000);
             if(i==100)
             {
-                Timer.Change(Timeout.Infinite, Timeout.Infinite);
+               // Timer.Change(Timeout.Infinite, Timeout.Infinite); 
+               //or
+               Timer.Dispose();
             }
            
         }
